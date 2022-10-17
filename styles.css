@@ -13,3 +13,8 @@ h2 {
   font-size: 15px;
   color: rgb(234, 234, 49);
 }
+
+.form-city {
+  text-align: center;
+  padding-top: 40px;
+}
